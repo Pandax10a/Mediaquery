@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    width: 100%;
+}
+
+#headerpage {
+width: 100%;
+height: 75px;
+background-color: blue;
+}
+
+@media only screen and (min-width: 440px){
+
+
+    #headerpage {
+        width: 100%;
+        height: 75px;
+        background-color: orange;
+        }
+    
+}
